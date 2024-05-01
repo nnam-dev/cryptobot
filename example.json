@@ -1,0 +1,40 @@
+// USDT Perp open long position (one-way mode)
+{
+    "category": "linear",
+    "symbol": "BTCUSDT",
+    "side": "Buy",
+    "orderType": "Limit",
+    "qty": "1",
+    "price": "25000",
+    "timeInForce": "GTC",
+    "positionIdx": 0,
+    "orderLinkId": "usdt-test-01",
+    "reduceOnly": false,
+    "takeProfit": "28000",
+    "stopLoss": "20000",
+    "tpslMode": "Partial",
+    "tpOrderType": "Limit",
+    "slOrderType": "Limit",
+    "tpLimitPrice": "27500",
+    "slLimitPrice": "20500"
+}
+
+1. create a trade and store in database
+2. create settings or config
+3. list trades and start bot
+4. fetch trade from database that has state as active 
+5. perform analysis to determine order (buy or sell)
+
+// USDT Perp close long position (one-way mode)
+{
+    "category": "linear",
+    "symbol": "BTCUSDT",
+    "side": "Sell",
+    "orderType": "Limit",
+    "qty": "1",
+    "price": "30000",
+    "timeInForce": "GTC",
+    "positionIdx": 0,
+    "orderLinkId": "usdt-test-02",
+    "reduceOnly": true
+}

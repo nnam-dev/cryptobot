@@ -1,0 +1,343 @@
+[2024-04-04T22:09:02.927Z] info: Server is running on port 3000
+[2024-04-05T00:42:36.750Z] info: Server is running on port 3000
+[2024-04-05T00:49:39.625Z] info: Server is running on port 3000
+[2024-04-05T00:51:30.300Z] info: GET /api/users
+[2024-04-05T00:51:35.941Z] info: GET /favicon.ico
+[2024-04-05T00:51:35.944Z] error: 500 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-05T00:51:35.985Z] error: 404 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-05T00:53:59.561Z] info: GET /protected
+[2024-04-22T15:46:25.859Z] info: Server is running on port 3000
+[2024-04-22T15:48:27.592Z] info: Server is running on port 3000
+[2024-04-22T15:50:16.563Z] info: Server is running on port 3000
+[2024-04-22T15:53:36.082Z] info: GET /
+[2024-04-22T15:53:42.748Z] info: GET /favicon.ico
+[2024-04-22T15:53:42.751Z] error: 500 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-22T15:53:42.813Z] error: 404 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-22T15:55:25.619Z] info: GET /api/users
+[2024-04-22T16:00:57.179Z] info: Server is running on port 3000
+[2024-04-22T16:02:20.337Z] info: Server is running on port 3000
+[2024-04-22T16:05:03.811Z] info: Server is running on port 3000
+[2024-04-22T16:06:36.113Z] info: Server is running on port 3000
+[2024-04-22T18:32:23.447Z] info: Server is running on port 3000
+[2024-04-22T18:32:50.734Z] info: GET /bot/start
+[2024-04-22T18:32:50.738Z] error: 500 - Not Found - /bot/start - /bot/start - GET - ::1
+[2024-04-22T18:32:51.113Z] error: 404 - Not Found - /bot/start - /bot/start - GET - ::1
+[2024-04-22T18:34:40.412Z] info: Server is running on port 3000
+[2024-04-22T18:35:23.482Z] info: GET /bot/start
+[2024-04-22T18:36:41.954Z] info: Server is running on port 3000
+[2024-04-22T18:36:49.102Z] info: GET /bot/start
+[2024-04-22T18:39:54.717Z] info: Server is running on port 3000
+[2024-04-22T18:40:01.019Z] info: GET /bot/start
+[2024-04-22T18:40:39.846Z] info: Server is running on port 3000
+[2024-04-22T18:41:29.875Z] info: Server is running on port 3000
+[2024-04-22T18:41:34.957Z] info: GET /bot/start
+[2024-04-22T18:43:53.344Z] info: Server is running on port 3000
+[2024-04-22T18:44:02.171Z] info: GET /bot/start
+[2024-04-22T19:01:36.050Z] info: Server is running on port 3000
+[2024-04-22T19:02:59.403Z] info: Server is running on port 3000
+[2024-04-22T19:03:13.626Z] info: Server is running on port 3000
+[2024-04-22T19:27:22.266Z] info: Server is running on port 3000
+[2024-04-22T19:28:19.715Z] info: Server is running on port 3000
+[2024-04-22T19:28:42.815Z] info: Server is running on port 3000
+[2024-04-22T19:29:44.484Z] info: Server is running on port 3000
+[2024-04-22T19:30:42.034Z] info: Server is running on port 3000
+[2024-04-22T20:03:29.030Z] info: Server is running on port 3000
+[2024-04-22T20:49:56.419Z] info: Server is running on port 3000
+[2024-04-23T17:07:29.632Z] info: Server is running on port 3000
+[2024-04-23T17:25:30.908Z] info: Server is running on port 3000
+[2024-04-23T17:26:36.251Z] info: Server is running on port 3000
+[2024-04-23T17:36:24.599Z] info: Server is running on port 3000
+[2024-04-23T17:40:39.474Z] info: Server is running on port 3000
+[2024-04-23T18:11:57.452Z] info: Server is running on port 3000
+[2024-04-24T19:45:34.169Z] info: Server is running on port 3000
+[2024-04-24T19:47:32.788Z] info: Server is running on port 3000
+[2024-04-24T19:47:35.622Z] info: Server is running on port 3000
+[2024-04-24T19:48:01.569Z] info: Server is running on port 3000
+[2024-04-24T19:49:27.077Z] info: Server is running on port 3000
+[2024-04-24T21:15:51.810Z] info: Server is running on port 3000
+[2024-04-24T21:17:04.323Z] info: GET /bot/start
+[2024-04-24T21:17:07.132Z] info: GET /favicon.ico
+[2024-04-24T21:17:07.134Z] error: 500 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-24T21:17:07.135Z] error: 404 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-24T21:19:52.739Z] info: Server is running on port 3000
+[2024-04-24T21:20:24.002Z] info: Server is running on port 3000
+[2024-04-24T21:20:30.121Z] info: Server is running on port 3000
+[2024-04-24T21:20:51.900Z] info: Server is running on port 3000
+[2024-04-24T21:20:59.795Z] info: GET /bot/start
+[2024-04-24T21:22:36.268Z] info: Server is running on port 3000
+[2024-04-24T21:24:38.825Z] info: Server is running on port 3000
+[2024-04-24T21:24:43.542Z] info: GET /bot/start
+[2024-04-24T21:26:10.678Z] info: Server is running on port 3000
+[2024-04-24T21:26:17.346Z] info: GET /bot/start
+[2024-04-24T21:27:27.915Z] info: Server is running on port 3000
+[2024-04-24T21:39:41.433Z] info: Server is running on port 3000
+[2024-04-24T21:40:47.377Z] info: Server is running on port 3000
+[2024-04-24T21:40:52.218Z] info: GET /bot/start
+[2024-04-24T21:41:47.318Z] info: Server is running on port 3000
+[2024-04-24T21:41:52.221Z] info: GET /bot/start
+[2024-04-24T21:48:49.197Z] info: Server is running on port 3000
+[2024-04-24T21:49:03.111Z] info: GET /bot/start
+[2024-04-24T21:53:06.520Z] info: Server is running on port 3000
+[2024-04-24T21:53:11.660Z] info: GET /bot/start
+[2024-04-24T21:57:21.119Z] info: Server is running on port 3000
+[2024-04-24T21:57:31.963Z] info: GET /bot/start
+[2024-04-24T22:14:11.618Z] info: Server is running on port 3000
+[2024-04-24T22:15:14.043Z] info: Server is running on port 3000
+[2024-04-24T22:15:21.748Z] info: GET /bot/start
+[2024-04-24T22:17:50.831Z] info: Server is running on port 3000
+[2024-04-24T22:18:15.555Z] info: GET /bot/start
+[2024-04-24T22:20:40.000Z] info: Server is running on port 3000
+[2024-04-24T22:20:57.062Z] info: GET /bot/start
+[2024-04-24T22:36:55.189Z] info: Server is running on port 3000
+[2024-04-24T22:37:04.015Z] info: GET /bot/start
+[2024-04-24T22:39:58.350Z] info: Server is running on port 3000
+[2024-04-24T22:40:23.002Z] info: Server is running on port 3000
+[2024-04-24T22:40:29.940Z] info: GET /bot/start
+[2024-04-24T22:41:23.794Z] info: Server is running on port 3000
+[2024-04-24T22:41:46.227Z] info: GET /bot/start
+[2024-04-25T09:17:39.269Z] info: Server is running on port 3000
+[2024-04-25T09:19:56.177Z] info: GET /api/users
+[2024-04-25T09:19:58.634Z] info: GET /favicon.ico
+[2024-04-25T09:19:58.636Z] error: 500 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-25T09:19:58.638Z] error: 404 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-25T09:20:04.974Z] info: GET /bot/start
+[2024-04-25T09:22:42.002Z] info: Server is running on port 3000
+[2024-04-25T09:22:46.979Z] info: GET /bot/start
+[2024-04-25T09:23:42.378Z] info: Server is running on port 3000
+[2024-04-25T09:23:46.890Z] info: GET /bot/start
+[2024-04-25T09:24:10.961Z] info: Server is running on port 3000
+[2024-04-25T09:24:15.430Z] info: GET /bot/start
+[2024-04-25T09:28:36.017Z] info: Server is running on port 3000
+[2024-04-25T09:28:43.664Z] info: GET /bot/start
+[2024-04-25T09:29:36.418Z] info: Server is running on port 3000
+[2024-04-25T09:29:41.263Z] info: GET /bot/start
+[2024-04-25T09:34:05.494Z] info: Server is running on port 3000
+[2024-04-25T09:34:25.939Z] info: GET /bot/start
+[2024-04-25T09:35:33.875Z] info: Server is running on port 3000
+[2024-04-25T09:35:51.264Z] info: GET /bot/start
+[2024-04-25T10:00:03.764Z] info: Server is running on port 3000
+[2024-04-25T10:03:58.005Z] info: Server is running on port 3000
+[2024-04-25T10:04:12.414Z] info: Server is running on port 3000
+[2024-04-25T10:05:20.006Z] info: Server is running on port 3000
+[2024-04-25T10:06:52.100Z] info: Server is running on port 3000
+[2024-04-25T10:09:04.953Z] info: Server is running on port 3000
+[2024-04-25T10:11:23.647Z] info: Server is running on port 3000
+[2024-04-25T10:11:32.958Z] info: Server is running on port 3000
+[2024-04-25T10:11:38.894Z] info: Server is running on port 3000
+[2024-04-25T10:12:52.949Z] info: Server is running on port 3000
+[2024-04-25T10:13:39.748Z] info: Server is running on port 3000
+[2024-04-25T10:13:49.191Z] info: GET /bot/start
+[2024-04-25T10:16:52.705Z] info: GET /bot/start
+[2024-04-25T10:20:43.196Z] info: Server is running on port 3000
+[2024-04-25T10:20:49.717Z] info: GET /bot/start
+[2024-04-25T10:21:24.706Z] info: Server is running on port 3000
+[2024-04-25T10:25:05.951Z] info: Server is running on port 3000
+[2024-04-25T10:25:12.421Z] info: GET /bot/start
+[2024-04-25T10:28:34.832Z] info: Server is running on port 3000
+[2024-04-25T10:28:40.598Z] info: GET /bot/start
+[2024-04-25T10:38:10.890Z] info: Server is running on port 3000
+[2024-04-25T10:38:23.454Z] info: GET /bot/start
+[2024-04-25T10:59:24.035Z] info: Server is running on port 3000
+[2024-04-25T11:02:19.592Z] info: Server is running on port 3000
+[2024-04-25T11:02:30.147Z] info: GET /bot/start
+[2024-04-25T11:22:34.863Z] info: Server is running on port 3000
+[2024-04-25T11:24:38.896Z] info: GET /bot/start
+[2024-04-25T11:38:29.598Z] info: Server is running on port 3000
+[2024-04-25T11:38:32.672Z] info: Server is running on port 3000
+[2024-04-25T11:39:31.472Z] info: Server is running on port 3000
+[2024-04-25T11:39:37.787Z] info: GET /bot/start
+[2024-04-25T11:41:59.140Z] info: Server is running on port 3000
+[2024-04-25T11:42:04.947Z] info: GET /bot/start
+[2024-04-25T11:46:11.272Z] info: Server is running on port 3000
+[2024-04-25T11:47:10.598Z] info: Server is running on port 3000
+[2024-04-25T11:47:15.965Z] info: GET /bot/start
+[2024-04-25T11:48:46.136Z] info: Server is running on port 3000
+[2024-04-25T11:48:50.462Z] info: GET /bot/start
+[2024-04-25T11:50:46.384Z] info: Server is running on port 3000
+[2024-04-25T11:50:51.145Z] info: GET /bot/start
+[2024-04-25T11:52:13.452Z] info: Server is running on port 3000
+[2024-04-25T11:52:22.477Z] info: GET /bot/start
+[2024-04-25T11:53:44.114Z] info: Server is running on port 3000
+[2024-04-25T11:53:53.977Z] info: GET /bot/start
+[2024-04-25T11:54:18.518Z] info: Server is running on port 3000
+[2024-04-25T11:54:20.378Z] info: GET /bot/start
+[2024-04-25T11:57:05.199Z] info: Server is running on port 3000
+[2024-04-25T11:57:05.292Z] info: GET /bot/start
+[2024-04-25T11:57:34.442Z] info: Server is running on port 3000
+[2024-04-25T11:59:00.779Z] info: Server is running on port 3000
+[2024-04-25T11:59:12.934Z] info: Server is running on port 3000
+[2024-04-25T11:59:17.557Z] info: Server is running on port 3000
+[2024-04-25T11:59:23.690Z] info: GET /bot/start
+[2024-04-25T12:00:49.333Z] info: Server is running on port 3000
+[2024-04-25T12:00:57.028Z] info: GET /bot/start
+[2024-04-25T12:06:07.325Z] info: Server is running on port 3000
+[2024-04-25T12:06:37.518Z] info: GET /bot/start
+[2024-04-25T12:07:37.101Z] info: Server is running on port 3000
+[2024-04-25T12:07:40.853Z] info: GET /bot/start
+[2024-04-25T12:11:41.466Z] info: Server is running on port 3000
+[2024-04-25T12:11:48.986Z] info: GET /bot/start
+[2024-04-25T12:13:25.473Z] info: Server is running on port 3000
+[2024-04-25T12:13:30.480Z] info: GET /bot/start
+[2024-04-25T12:14:11.763Z] info: Server is running on port 3000
+[2024-04-25T12:14:16.402Z] info: GET /bot/start
+[2024-04-25T12:14:57.899Z] info: Server is running on port 3000
+[2024-04-25T12:15:04.617Z] info: GET /bot/start
+[2024-04-25T12:56:27.009Z] info: Server is running on port 3000
+[2024-04-25T12:57:08.172Z] info: Server is running on port 3000
+[2024-04-25T12:57:20.192Z] info: GET /bot/start
+[2024-04-25T12:59:48.179Z] info: Server is running on port 3000
+[2024-04-25T12:59:54.104Z] info: GET /bot/start
+[2024-04-25T13:02:43.079Z] info: Server is running on port 3000
+[2024-04-25T13:03:25.902Z] info: Server is running on port 3000
+[2024-04-25T13:03:34.817Z] info: GET /bot/start
+[2024-04-25T13:03:52.580Z] info: Server is running on port 3000
+[2024-04-25T13:03:56.674Z] info: GET /bot/start
+[2024-04-25T13:04:46.598Z] info: Server is running on port 3000
+[2024-04-25T13:04:51.600Z] info: GET /bot/start
+[2024-04-25T13:05:54.448Z] info: Server is running on port 3000
+[2024-04-25T13:06:09.265Z] info: GET /bot/start
+[2024-04-25T13:06:44.249Z] info: Server is running on port 3000
+[2024-04-25T13:06:49.470Z] info: GET /bot/start
+[2024-04-25T13:07:34.205Z] info: Server is running on port 3000
+[2024-04-25T13:07:42.571Z] info: Server is running on port 3000
+[2024-04-25T13:07:46.509Z] info: GET /bot/start
+[2024-04-25T13:08:20.945Z] info: Server is running on port 3000
+[2024-04-25T13:08:26.810Z] info: GET /bot/start
+[2024-04-25T13:09:12.845Z] info: Server is running on port 3000
+[2024-04-25T13:09:23.146Z] info: GET /bot/start
+[2024-04-25T13:09:42.125Z] info: Server is running on port 3000
+[2024-04-25T13:09:46.253Z] info: GET /bot/start
+[2024-04-25T13:15:16.827Z] info: Server is running on port 3000
+[2024-04-25T13:15:22.884Z] info: GET /bot/start
+[2024-04-25T13:15:52.428Z] info: Server is running on port 3000
+[2024-04-25T13:16:00.035Z] info: GET /bot/start
+[2024-04-25T13:17:01.096Z] info: Server is running on port 3000
+[2024-04-25T13:17:05.900Z] info: GET /bot/start
+[2024-04-25T13:18:09.664Z] info: Server is running on port 3000
+[2024-04-25T13:21:44.769Z] info: Server is running on port 3000
+[2024-04-25T13:22:17.552Z] info: GET /bot/start
+[2024-04-25T13:26:53.265Z] info: Server is running on port 3000
+[2024-04-25T13:27:52.042Z] info: Server is running on port 3000
+[2024-04-25T13:31:22.140Z] info: Server is running on port 3000
+[2024-04-25T13:32:08.095Z] info: Server is running on port 3000
+[2024-04-25T13:32:16.508Z] info: GET /bot/start
+[2024-04-25T13:40:43.671Z] info: Server is running on port 3000
+[2024-04-25T13:41:10.370Z] info: Server is running on port 3000
+[2024-04-25T13:47:43.074Z] info: Server is running on port 3000
+[2024-04-25T13:47:51.681Z] info: GET /bot/start
+[2024-04-25T13:49:42.465Z] info: Server is running on port 3000
+[2024-04-25T13:50:25.548Z] info: Server is running on port 3000
+[2024-04-25T13:50:31.490Z] info: GET /bot/start
+[2024-04-25T13:53:01.587Z] info: Server is running on port 3000
+[2024-04-25T13:53:07.060Z] info: GET /bot/start
+[2024-04-25T13:54:02.491Z] info: Server is running on port 3000
+[2024-04-25T13:54:09.288Z] info: GET /bot/start
+[2024-04-25T13:56:06.984Z] info: Server is running on port 3000
+[2024-04-25T13:57:09.291Z] info: GET /bot/start
+[2024-04-25T14:44:01.972Z] info: Server is running on port 3000
+[2024-04-25T14:56:26.326Z] info: Server is running on port 3000
+[2024-04-25T14:56:35.016Z] info: GET /bot/start
+[2024-04-25T14:57:47.194Z] info: Server is running on port 3000
+[2024-04-25T14:59:09.642Z] info: Server is running on port 3000
+[2024-04-25T14:59:16.826Z] info: GET /bot/start
+[2024-04-25T15:00:15.450Z] info: Server is running on port 3000
+[2024-04-25T15:00:20.867Z] info: GET /bot/start
+[2024-04-25T15:26:37.901Z] info: Server is running on port 3000
+[2024-04-25T15:27:20.723Z] info: Server is running on port 3000
+[2024-04-25T15:28:13.979Z] info: Server is running on port 3000
+[2024-04-25T15:30:13.564Z] info: Server is running on port 3000
+[2024-04-25T15:30:20.259Z] info: GET /bot/start
+[2024-04-25T15:32:21.728Z] info: Server is running on port 3000
+[2024-04-25T15:32:58.823Z] info: GET /bot/start
+[2024-04-25T15:33:50.171Z] info: Server is running on port 3000
+[2024-04-25T15:34:04.632Z] info: GET /bot/start
+[2024-04-25T15:35:42.073Z] info: Server is running on port 3000
+[2024-04-25T15:35:46.973Z] info: GET /bot/start
+[2024-04-25T15:37:12.157Z] info: Server is running on port 3000
+[2024-04-25T15:37:23.012Z] info: GET /bot/start
+[2024-04-25T15:38:38.577Z] info: Server is running on port 3000
+[2024-04-25T15:38:45.606Z] info: GET /bot/start
+[2024-04-25T15:40:17.691Z] info: Server is running on port 3000
+[2024-04-25T15:40:24.465Z] info: GET /bot/start
+[2024-04-25T20:07:18.545Z] info: Server is running on port 3000
+[2024-04-25T20:10:56.895Z] info: Server is running on port 3000
+[2024-04-25T20:22:26.071Z] info: Server is running on port 3000
+[2024-04-25T20:34:05.698Z] info: Server is running on port 3000
+[2024-04-25T20:34:09.377Z] info: Server is running on port 3000
+[2024-04-25T20:37:59.599Z] info: Server is running on port 3000
+[2024-04-25T20:40:15.131Z] info: Server is running on port 3000
+[2024-04-25T20:41:32.198Z] info: Server is running on port 3000
+[2024-04-25T20:42:32.698Z] info: Server is running on port 3000
+[2024-04-25T20:42:46.606Z] info: GET /bot/start
+[2024-04-25T20:44:12.870Z] info: Server is running on port 3000
+[2024-04-25T20:44:20.505Z] info: GET /bot/start
+[2024-04-25T20:45:43.457Z] info: Server is running on port 3000
+[2024-04-25T20:45:59.017Z] info: GET /bot/start
+[2024-04-25T20:46:39.727Z] info: Server is running on port 3000
+[2024-04-25T20:46:44.937Z] info: GET /bot/start
+[2024-04-25T20:48:30.812Z] info: Server is running on port 3000
+[2024-04-25T20:49:45.469Z] info: Server is running on port 3000
+[2024-04-25T20:49:53.390Z] info: GET /bot/start
+[2024-04-25T20:56:21.162Z] info: Server is running on port 3000
+[2024-04-25T20:56:31.916Z] info: GET /bot/start
+[2024-04-25T21:00:41.122Z] info: Server is running on port 3000
+[2024-04-25T21:00:47.836Z] info: GET /bot/start
+[2024-04-25T21:06:18.381Z] info: Server is running on port 3000
+[2024-04-25T21:06:37.314Z] info: Server is running on port 3000
+[2024-04-25T21:06:50.066Z] info: GET /bot/start
+[2024-04-25T21:07:45.865Z] info: Server is running on port 3000
+[2024-04-25T21:07:52.414Z] info: GET /bot/start
+[2024-04-25T21:09:31.833Z] info: Server is running on port 3000
+[2024-04-25T21:10:22.831Z] info: Server is running on port 3000
+[2024-04-25T21:10:28.270Z] info: GET /bot/start
+[2024-04-25T21:11:08.094Z] info: Server is running on port 3000
+[2024-04-25T21:11:13.674Z] info: GET /bot/start
+[2024-04-25T21:11:48.831Z] info: Server is running on port 3000
+[2024-04-25T21:12:59.244Z] info: Server is running on port 3000
+[2024-04-25T21:13:06.089Z] info: GET /bot/start
+[2024-04-25T21:14:49.879Z] info: Server is running on port 3000
+[2024-04-25T21:14:57.971Z] info: GET /bot/start
+[2024-04-25T21:15:58.378Z] info: Server is running on port 3000
+[2024-04-25T21:16:02.565Z] info: GET /bot/start
+[2024-04-25T21:18:07.636Z] info: Server is running on port 3000
+[2024-04-25T21:18:18.039Z] info: GET /bot/start
+[2024-04-25T21:23:21.853Z] info: Server is running on port 3000
+[2024-04-25T21:23:27.496Z] info: GET /bot/start
+[2024-04-25T21:27:30.493Z] info: Server is running on port 3000
+[2024-04-25T21:27:38.146Z] info: GET /bot/start
+[2024-04-26T08:50:45.265Z] info: Server is running on port 3000
+[2024-04-26T09:01:27.418Z] info: GET /bot/start
+[2024-04-26T09:02:53.207Z] info: Server is running on port 3000
+[2024-04-26T09:03:16.573Z] info: Server is running on port 3000
+[2024-04-26T09:03:20.610Z] info: GET /bot/start
+[2024-04-26T09:04:44.643Z] info: Server is running on port 3000
+[2024-04-26T09:05:05.516Z] info: GET /bot/start
+[2024-04-26T09:06:38.967Z] info: Server is running on port 3000
+[2024-04-26T09:06:50.107Z] info: GET /bot/start
+[2024-04-26T09:07:25.703Z] info: Server is running on port 3000
+[2024-04-26T09:07:30.263Z] info: GET /bot/start
+[2024-04-26T09:10:00.999Z] info: Server is running on port 3000
+[2024-04-26T09:10:06.308Z] info: GET /bot/start
+[2024-04-26T09:13:33.244Z] info: Server is running on port 3000
+[2024-04-26T09:13:37.939Z] info: GET /bot/start
+[2024-04-26T09:18:14.117Z] info: Server is running on port 3000
+[2024-04-26T09:18:23.202Z] info: GET /bot/start
+[2024-04-30T11:34:15.181Z] info: Server is running on port 3000
+[2024-04-30T11:34:52.516Z] info: GET /api/users
+[2024-04-30T11:34:56.715Z] info: GET /favicon.ico
+[2024-04-30T11:34:56.718Z] error: 500 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-30T11:34:56.773Z] error: 404 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-30T11:35:02.460Z] info: GET /
+[2024-04-30T11:35:10.228Z] info: GET /bot/start
+[2024-04-30T11:37:18.976Z] info: Server is running on port 3000
+[2024-04-30T11:37:24.169Z] info: GET /bot/start
+[2024-04-30T11:43:57.674Z] info: Server is running on port 3000
+[2024-04-30T11:44:02.475Z] info: GET /bot/start
+[2024-04-30T21:11:32.287Z] info: Server is running on port 3000
+[2024-04-30T21:11:44.969Z] info: GET /bot/start
+[2024-04-30T21:14:37.644Z] info: Server is running on port 3000
+[2024-04-30T21:15:34.627Z] info: Server is running on port 3000
+[2024-04-30T21:15:41.017Z] info: GET /bot/start
+[2024-04-30T21:16:42.238Z] info: GET /favicon.ico
+[2024-04-30T21:16:42.241Z] error: 500 - Not Found - /favicon.ico - /favicon.ico - GET - ::1
+[2024-04-30T21:16:42.243Z] error: 404 - Not Found - /favicon.ico - /favicon.ico - GET - ::1

@@ -1,0 +1,30 @@
+crypto-trading-bot/
+│
+├── config/
+│   └── index.js
+│
+├── controllers/
+│   ├── exchangeController.js
+│   └── strategyController.js
+│
+├── models/
+│   ├── Order.js
+│   └── Trade.js
+│
+├── services/
+│   ├── exchangeService.js
+│   ├── indicatorService.js
+│   └── databaseService.js
+│
+├── utils/
+│   ├── authentication.js
+│   ├── logger.js
+│   └── errorHandlers.js
+│
+├── tests/
+│   ├── exchangeService.test.js
+│   ├── indicatorService.test.js
+│   └── ...
+│
+├── index.js
+└── package.json
